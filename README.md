@@ -172,6 +172,13 @@ Windows note
 ------------
 This executable may be unsigned. Windows Defender SmartScreen may show a warning for new or unsigned applications. This does not necessarily mean that the file is malicious; it means that the executable has not yet built sufficient Microsoft reputation or has not been code-signed.
 
+Questions and contact
+---------------------
+For questions about installation, input preparation, calculations, or interpretation of the results, please contact:
+
+- Rashid R. Valiev: valievrashid@gmail.com
+- Rinat T. Nasibullin: Nasibullin.rt1995@gmail.com
+
 Disclaimer
 ----------
 This software is a research tool. The author provides no warranty of correctness, fitness for a particular purpose, or compatibility with all quantum-chemistry output variants. Users should validate results for their own systems.
