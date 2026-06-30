@@ -1,0 +1,21 @@
+ICRate Software Terms
+=====================
+
+Copyright (c) 2026 Rashid R. Valiev. All rights reserved.
+
+This software is distributed as a compiled executable research tool. The source code is not distributed as open-source software unless explicitly provided under a separate written license.
+
+Permission is granted to download and use the compiled executable for academic and non-commercial research purposes.
+
+The following actions are not permitted without written permission from the author:
+
+- redistribution of the executable outside the original release package,
+- resale or commercial use,
+- modification of the executable,
+- reverse engineering, decompilation, or disassembly,
+- inclusion of the executable in other software packages,
+- removal or alteration of author, copyright, or citation information.
+
+Gaussian, Firefly, and other quantum-chemistry packages are not included in this software. ICRate only post-processes user-provided output files. Users are responsible for complying with their own licenses for any third-party software used to generate input/output files.
+
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of correctness, merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, data loss, incorrect scientific conclusions, or other liability arising from the use of this software.
