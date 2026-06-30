@@ -16,6 +16,9 @@ The following actions are not permitted without written permission from the auth
 - inclusion of the executable in other software packages,
 - removal or alteration of author, copyright, or citation information.
 
-Gaussian, Firefly, and other quantum-chemistry packages are not included in this software. ICRate only post-processes user-provided output files. Users are responsible for complying with their own licenses for any third-party software used to generate input/output files.
+Gaussian, Firefly, and other quantum-chemistry packages are not included in this software. ICRate only post-processes user-provided output files. 
+Users are responsible for complying with their own licenses for any third-party software used to generate input/output files.
 
-This software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of correctness, merchantability, fitness for a particular purpose, and non-infringement. In no event shall the author be liable for any claim, damages, data loss, incorrect scientific conclusions, or other liability arising from the use of this software.
+This software is provided "as is", without warranty of any kind, express or implied, including but not limited to warranties of correctness, merchantability, 
+fitness for a particular purpose, and non-infringement. 
+In no event shall the author be liable for any claim, damages, data loss, incorrect scientific conclusions, or other liability arising from the use of this software.
